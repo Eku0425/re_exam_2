@@ -1,16 +1,14 @@
 # re_exam_2
 
-A new Flutter project.
+# Student Data Management App
+Develop a Flutter application that allows users to manage student data. The app should support adding, removing, and updating student information.
 
-## Getting Started
+<img src="https://github.com/Eku0425/re_exam_2/assets/149374328/92c7c5f9-be65-48e4-9cd0-f70e206fa4d8" height=25% width=25%>
+<img src="https://github.com/Eku0425/re_exam_2/assets/149374328/5af61e0e-08f4-4dba-950b-7c30d69b3657" height=25% width=25%>
+<img src="https://github.com/Eku0425/re_exam_2/assets/149374328/57dc279c-523a-4d01-aa33-50e9bdfeb0b2" height=25% width=25%>
+<img src="https://github.com/Eku0425/re_exam_2/assets/149374328/059bb32e-14ff-4cb9-9f80-ce035b9821d5" height=25% width=25%>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/Eku0425/re_exam_2/assets/149374328/ef260810-946e-446a-8671-1a47fbc5d663
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
